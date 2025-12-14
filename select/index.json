@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Neighbourhood",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-14T07:42:09.294902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neighbourhood",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Neighbourhood_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Gotta Move Out of This Neighbourhood",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/02_I_Gotta_Move_Out_of_This_Neighbourhood_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Neighbourhood",
+      "artist": "September",
+      "has_synced": false,
+      "path": "select/03_My_Neighbourhood_September.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Let The Neighbourhood Hear",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/04_Don't_Let_The_Neighbourhood_Hear_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Black Cat Neighbourhood",
+      "artist": "Fallulah",
+      "has_synced": true,
+      "path": "select/05_The_Black_Cat_Neighbourhood_Fallulah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neighbourhood",
+      "artist": "The Go Find",
+      "has_synced": false,
+      "path": "select/06_Neighbourhood_The_Go_Find.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Odd Neighbourhood",
+      "artist": "Holygram",
+      "has_synced": false,
+      "path": "select/07_Odd_Neighbourhood_Holygram.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nightmare In the Neighbourhood",
+      "artist": "Pretty Maids",
+      "has_synced": true,
+      "path": "select/08_Nightmare_In_the_Neighbourhood_Pretty_Maids.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nightmare In The Neighbourhood",
+      "artist": "Pretty Maids",
+      "has_synced": false,
+      "path": "select/09_Nightmare_In_The_Neighbourhood_Pretty_Maids.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In The Neighbourhood",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/10_In_The_Neighbourhood_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fallulah / The Black Cat Neighbourhood",
+      "artist": "The DALI CD",
+      "has_synced": true,
+      "path": "select/11_Fallulah___The_Black_Cat_Neighbourhood_The_DALI_CD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Neighbourhood of Infinity (Live)",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/12_Neighbourhood_of_Infinity_(Live)_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Neighbourhood of Infinity (Live)",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/13_Neighbourhood_of_Infinity_(Live)_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Neighbourhood Watch",
+      "artist": "Stray from the Path",
+      "has_synced": true,
+      "path": "select/14_Neighbourhood_Watch_Stray_from_the_Path.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Welcome to the Neighbourhood",
+      "artist": "Boston Manor",
+      "has_synced": true,
+      "path": "select/15_Welcome_to_the_Neighbourhood_Boston_Manor.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Peace In The Neighbourhood",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/16_Peace_In_The_Neighbourhood_Paul_McCartney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neighbourhood",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Neighbourhood_米津玄師.txt"
+    }
+  ]
+}
